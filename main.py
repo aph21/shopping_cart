@@ -10,4 +10,4 @@ qnt = int(input("Quantity: "))
 
 add_item(name, price, qnt)
 
-print(cart)
+#print(cart)
