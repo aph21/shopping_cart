@@ -4,7 +4,7 @@ A simple command-line shopping cart application built with Python.
 
 ## Features
 
-- Add items to the cart (name + price)
+- Add items to the cart (name + price + quantity)
 - Remove items from the cart
 - Show all items in the cart
 - Calculate total price
